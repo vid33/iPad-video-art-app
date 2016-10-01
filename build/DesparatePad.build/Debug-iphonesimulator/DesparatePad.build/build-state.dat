@@ -1,0 +1,330 @@
+TDesparatePad
+v7
+r0
+t301501510.522357
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Info.plist" DesparatePad-Info.plist
+cCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib"
+cCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib"
+cCpResource build/Debug-iphonesimulator/DesparatePad.app/fruit_mpeg4.mov ../Desperate/fruit_mpeg4.mov
+cCpResource build/Debug-iphonesimulator/DesparatePad.app/Movie.mp4 ../Desperate/Movie.mp4
+cCpResource build/Debug-iphonesimulator/DesparatePad.app/short.3gp ../Desperate/short.3gp
+cProcessPCH /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch.gch DesparatePad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/main.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadAppDelegate.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadViewController.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad" normal i386
+cGenerateDSYMFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app.dSYM" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad"
+cTouch "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMediaPlayback.h
+c000000004BD2093D0000000000000604
+t1272056125
+s1540
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004BD2093D0000000000000268
+t1272056125
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004BD2095E00000000001515F0
+t1272056158
+s1381872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/Movie.mp4
+c000000004C34CCC5000000000006B6BF
+t1278528709
+s439999
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/fruit_mpeg4.mov
+c000000004C469C4800000000000FAD44
+t1279695944
+s1027396
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/short.3gp
+c0000000049CFF6720000000000194490
+t1238365810
+s1655952
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.h
+c000000004C484BE90000000000000200
+t1279806441
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m
+c000000004C484BE900000000000007C6
+t1279806441
+s1990
+i"DesparatePadAppDelegate.h"
+i"DesparatePadViewController.h"
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.h
+c000000004C4851B0000000000000040A
+t1279807920
+s1034
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i<MediaPlayer/MPMediaPlayback.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m
+c000000004C4854BE0000000000000F89
+t1279808702
+s3977
+i"DesparatePadViewController.h"
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib
+c000000004C4854ED000000000000954A
+t1279808749
+s38218
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePad_Prefix.pch
+c000000004C484BE900000000000000C1
+t1279806441
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib
+c000000004C484BE90000000000004D3B
+t1279806441
+s19771
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app
+t1279808710
+s340
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app.dSYM
+t1279808710
+s102
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad
+t1279808710
+s25536
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePadViewController.nib
+t1279808618
+s3114
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Info.plist
+t1279806953
+s818
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/MainWindow.nib
+t1279806953
+s1133
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Movie.mp4
+t1279807744
+s439999
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/PkgInfo
+t1279806953
+s8
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/fruit_mpeg4.mov
+t1279807744
+s1027396
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/short.3gp
+t1279807744
+s1655952
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePad.LinkFileList
+c000000004C484DE900000000000001C7
+t1279806953
+s455
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadAppDelegate.o
+t1279807964
+s46204
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadViewController.o
+t1279808710
+s51356
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/main.o
+t1279806954
+s6316
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m
+c000000004C484BE90000000000000171
+t1279806441
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch.gch
+t1279806954
+s13825936
+
+NDesparatePad-Info.plist
+c000000004C484BE900000000000004D6
+t1279806441
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301501510#301501510#0(0"0(0#1#0"8620283648#0"0#
+
+CCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadAppDelegate.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s301500764.388022
+e301500764.492568
+r1
+xCompileC
+xbuild/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadAppDelegate.o
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m301500764#301500764#0(0"0(0#0#78"/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m8611791168#2135"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-generated-files.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-own-target-headers.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-all-target-headers.hmap" -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-project-headers.hmap" "-F/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/include" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources/i386" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources" -include /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch -c "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m" -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadAppDelegate.o"0#
+
+CCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadViewController.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s301501510.293878
+e301501510.473274
+r1
+xCompileC
+xbuild/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadViewController.o
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m301501510#301501510#0(0"0(0#0#81"/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m8618766176#2141"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-generated-files.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-own-target-headers.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-all-target-headers.hmap" -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-project-headers.hmap" "-F/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/include" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources/i386" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources" -include /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch -c "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m" -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePadViewController.o"0#
+
+CCompileC build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/main.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s301499754.821349
+e301499754.920210
+r1
+xCompileC
+xbuild/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/main.o
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sizifo/Desktop/AA Coding/DesparatePad/main.m301499754#301499754#0(0"0(0#0#51"/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m8602991328#2089"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-generated-files.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-own-target-headers.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-all-target-headers.hmap" -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-project-headers.hmap" "-F/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/include" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources/i386" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources" -include /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch -c "/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m" -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib"
+s301501417.748673
+e301501418.306611
+r1
+xCompileXIB
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib
+lSLF07#2@41"CompileXIB DesparatePadViewController.xib301501417#301501418#0(0"0(0#0#75"/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib8614948352#631"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePadViewController.nib" "/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib"
+s301499753.371291
+e301499753.954835
+r1
+xCompileXIB
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib301499753#301499753#0(0"0(0#0#59"/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib8613159936#599"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/MainWindow.nib" "/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/DesparatePad.app/Movie.mp4 ../Desperate/Movie.mp4
+s301500544.509915
+e301500544.612720
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DesparatePad.app/Movie.mp4
+x../Desperate/Movie.mp4
+lSLF07#2@27"Copy ../Desperate/Movie.mp4301500544#301500544#0(0"0(0#0#67"/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/Movie.mp48612979904#495"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/Movie.mp4" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"0#
+
+CCpResource build/Debug-iphonesimulator/DesparatePad.app/fruit_mpeg4.mov ../Desperate/fruit_mpeg4.mov
+s301500544.507843
+e301500544.666804
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DesparatePad.app/fruit_mpeg4.mov
+x../Desperate/fruit_mpeg4.mov
+lSLF07#2@33"Copy ../Desperate/fruit_mpeg4.mov301500544#301500544#0(0"0(0#0#73"/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/fruit_mpeg4.mov8613327872#501"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/fruit_mpeg4.mov" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"0#
+
+CCpResource build/Debug-iphonesimulator/DesparatePad.app/short.3gp ../Desperate/short.3gp
+s301500544.515846
+e301500544.677735
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DesparatePad.app/short.3gp
+x../Desperate/short.3gp
+lSLF07#2@27"Copy ../Desperate/short.3gp301500544#301500544#0(0"0(0#0#67"/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/short.3gp8612854592#495"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sizifo/Desktop/AA Coding/DesparatePad/../Desperate/short.3gp" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"0#
+
+CGenerateDSYMFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app.dSYM" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad"
+s301501510.499177
+e301501510.518971
+r1
+xGenerateDSYMFile
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app.dSYM
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DesparatePad.app.dSYM build/Debug-iphonesimulator/DesparatePad.app/DesparatePad301501510#301501510#0(0"0(0#0#102"/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad8620839104#422"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad" -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app.dSYM"0#
+
+CLd "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad" normal i386
+s301501510.473381
+e301501510.499050
+r1
+xLd
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad
+xnormal
+xi386
+lSLF07#2@107"Link /Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad301501510#301501510#0(0"0(0#0#0"8608728832#988"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" "-F/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" -filelist "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/Objects-normal/i386/DesparatePad.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/DesparatePad"0#
+
+CProcessInfoPlistFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Info.plist" DesparatePad-Info.plist
+s301499753.367624
+e301499753.371198
+r1
+xProcessInfoPlistFile
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Info.plist
+xDesparatePad-Info.plist
+lSLF07#2@31"Process DesparatePad-Info.plist301499753#301499753#0(0"0(0#0#68"/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePad-Info.plist8613893504#518"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DesparatePad-Info.plist -genpkginfo "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app/Info.plist"0#
+
+CProcessPCH /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch.gch DesparatePad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301499753.954982
+e301499754.821226
+r1
+xProcessPCH
+x/var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch.gch
+xDesparatePad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DesparatePad_Prefix.pch301499753#301499754#0(0"0(0#0#68"/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePad_Prefix.pch8614278656#1968"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-generated-files.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-own-target-headers.hmap" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-all-target-headers.hmap" -iquote "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DesparatePad-project-headers.hmap" "-F/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/include" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources/i386" "-I/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphonesimulator/DesparatePad.build/DerivedSources" -c "/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePad_Prefix.pch" -o /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-bhnrimlytpqrtjhbwrzlwwmsipvw/DesparatePad_Prefix.pch.gch0#
+
+CTouch "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"
+s301501510.519077
+e301501510.522301
+r1
+xTouch
+x/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app
+lSLF07#2@95"Touch /Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app301501510#301501510#0(0"0(0#0#0"8620387808#299"    cd "/Users/sizifo/Desktop/AA Coding/DesparatePad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphonesimulator/DesparatePad.app"0#
+

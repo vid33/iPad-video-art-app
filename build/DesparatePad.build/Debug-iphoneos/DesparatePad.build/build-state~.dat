@@ -1,0 +1,200 @@
+TDesparatePad
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C1BB8220000000000000110
+t1276885026
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMediaPlayback.h
+c000000004C00674A0000000000000604
+t1275094858
+s1540
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004C00674A0000000000000268
+t1275094858
+s616
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C0067770000000000204300
+t1275094903
+s2114304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.h
+c000000004C484BE90000000000000200
+t1279806441
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m
+c000000004C484BE900000000000007C6
+t1279806441
+s1990
+i"DesparatePadAppDelegate.h"
+i"DesparatePadViewController.h"
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.h
+c000000004C484DE1000000000000037C
+t1279806945
+s892
+i<UIKit/UIKit.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m
+c000000004C484DDD0000000000000F9B
+t1279806941
+s3995
+i"DesparatePadViewController.h"
+i<MediaPlayer/MediaPlayer.h>
+i<MediaPlayer/MPMediaPlayback.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib
+c000000004C484BE90000000000003EF5
+t1279806441
+s16117
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePad_Prefix.pch
+c000000004C484BE900000000000000C1
+t1279806441
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib
+c000000004C484BE90000000000004D3B
+t1279806441
+s19771
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app.dSYM
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/DesparatePad
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/DesparatePadViewController.nib
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/Info.plist
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/MainWindow.nib
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/PkgInfo
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/ResourceRules.plist
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/DesparatePad.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/DesparatePadAppDelegate.o
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/DesparatePadViewController.o
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m
+c000000004C484BE90000000000000171
+t1279806441
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-djcybxnwluzcgndsyoetlumevdzh/DesparatePad_Prefix.pch.gch
+t2
+s0
+
+NDesparatePad-Info.plist
+c000000004C484BE900000000000004D6
+t1279806441
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301499745#301499745#0(141"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.DesparatePad' could not be found1(4@133"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.DesparatePad' could not be found301499745#18446744073709551615#0#0(1@0"0(0#1#0"8599439264#0"0#
+
+CCompileC build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/DesparatePadAppDelegate.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/DesparatePadViewController.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/Classes/DesparatePadViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesparatePad.build/Debug-iphoneos/DesparatePad.build/Objects-normal/armv7/main.o "/Users/sizifo/Desktop/AA Coding/DesparatePad/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/DesparatePadViewController.xib"
+r0
+
+CCompileXIB "/Users/sizifo/Desktop/AA Coding/DesparatePad/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/DesparatePad.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app.dSYM" "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/DesparatePad"
+r0
+
+CLd "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/DesparatePad" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app/Info.plist" DesparatePad-Info.plist
+r0
+
+CProcessPCH /var/folders/ei/eimMYsYLF0qyhZOpu7wEuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesparatePad_Prefix-djcybxnwluzcgndsyoetlumevdzh/DesparatePad_Prefix.pch.gch DesparatePad_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/sizifo/Desktop/AA Coding/DesparatePad/build/Debug-iphoneos/DesparatePad.app"
+r0
+
